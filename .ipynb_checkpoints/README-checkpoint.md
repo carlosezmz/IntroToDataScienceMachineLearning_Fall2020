@@ -129,6 +129,8 @@ Tentative course schedule:
 
    * Transfer learning.
 
+**Launch Data Product into Production**
+
 13. (11/17-11/20) Web App development:
 
    * Flask library,
